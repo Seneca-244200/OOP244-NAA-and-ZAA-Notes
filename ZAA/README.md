@@ -2,4 +2,4 @@
 ## Recordings of Previous Lecture Sessions
 I strongly suggest that students review other sections' recordings as well if time permits...
 
-- to be posted
+- [01-Sep07 Introduction](https://youtu.be/lruFU0SQ8t4)
