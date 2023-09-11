@@ -2,4 +2,4 @@
 ## Recordings of Previous Lecture Sessions
 I strongly suggest that students review other sections' recordings as well if time permits...
 
-- To be posted
+- [02-Sep08, namespaces C++ IO](https://youtu.be/M65ko09vFkg)
