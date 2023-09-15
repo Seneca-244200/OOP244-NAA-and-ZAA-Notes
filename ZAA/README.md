@@ -3,3 +3,4 @@
 I strongly suggest that students review other sections' recordings as well if time permits...
 
 - [01-Sep07 Introduction](https://youtu.be/lruFU0SQ8t4)
+- - [How to book an appointment with Fardad for Help or discussion](https://youtu.be/4pnVGeDpTck)
