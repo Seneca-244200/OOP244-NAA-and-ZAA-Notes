@@ -6,3 +6,4 @@ I strongly suggest that students review other sections' recordings as well if ti
 - [How to book an appointment with Fardad for Help or discussion](https://youtu.be/4pnVGeDpTck)
 - [02-Sep11, Modular,  Namespaces -iostream - How compiler works](https://youtu.be/Q9ESMfwwbg0)
 - [03-Sep14, Modular, Pre-processor directives](https://youtu.be/b-hfUVryTOY)
+- [04-Sep18, References, Pointers, Intro to DMA](https://youtu.be/i0PEciYSr6E)
