@@ -1,13 +1,12 @@
 #include <iostream>
 using namespace std;
 int main( ) {
-   int i(3);
-   int k = 3;
+   int k = 3; // initializations
+   int i(3); 
    int l{ 3 };
    cout << i << endl;
-   int j{};
-   cout << j << endl;
-   j = 3;
+   int j;    
+   j = 3;   // Assignment
    cout << j << endl;
 
    return 0;

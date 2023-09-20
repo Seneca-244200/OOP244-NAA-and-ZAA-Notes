@@ -9,7 +9,7 @@ void foo( int a,const char* str ) {
 int main( ) {
    int val = 123;
    char name[] = "Fred";
-   foo( val, name );// foo(int a = val, const char* str = name);
+   foo( val, name );   // foo(int a = val, const char* str = name);
 
    return 0;
 }
