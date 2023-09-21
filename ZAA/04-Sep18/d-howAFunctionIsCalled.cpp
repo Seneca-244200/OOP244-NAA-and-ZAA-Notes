@@ -1,15 +1,18 @@
 #include  <iostream>
 using namespace std;
-void foo( int val ) {
+void print( int val ) {
    cout << val << endl;
 }
-void foo(const char s[] ) {
+void print(const char* s ) {
    cout << s << endl;
 }
 int main( ) {
+   int i = 20;
+
+   // diff i and 20?
    char name[] = { "Fred" };
-   foo ( 20 ); // foo(int val = 20);
-   foo( name );  // foo(const char s[] = name);
-   foo( "Jack" ); // foo(const char s[] = "Jack");
+   print ( 20 ); // print(int val = 20);
+   print( name );  // print(const char* s = name);
+   print( "Jack" ); // print(const char s[] = "Jack");
     return 0;
 }

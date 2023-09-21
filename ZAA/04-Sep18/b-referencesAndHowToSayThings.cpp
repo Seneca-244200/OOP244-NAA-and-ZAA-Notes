@@ -16,6 +16,7 @@ E = *m * *c * *c;
 int main( ) {
    int i = 10;
    int& r = i;
+   // int& x; syntax error
 
    cout << unsigned( &i ) << "..." << unsigned( &r ) << endl;
 

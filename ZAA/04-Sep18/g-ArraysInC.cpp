@@ -7,5 +7,6 @@ int main( ) {
    cout << *a << endl;
    int* p = a;
    cout << p[2] << endl;
+
    return 0;
 }
