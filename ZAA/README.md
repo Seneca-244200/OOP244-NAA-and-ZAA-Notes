@@ -7,3 +7,4 @@ I strongly suggest that students review other sections' recordings as well if ti
 - [02-Sep11, Modular,  Namespaces -iostream - How compiler works](https://youtu.be/Q9ESMfwwbg0)
 - [03-Sep14, Modular, Pre-processor directives](https://youtu.be/b-hfUVryTOY)
 - [04-Sep18, References, Pointers, Intro to DMA](https://youtu.be/i0PEciYSr6E)
+- [05-Sep21, Pointers VS integers, DMA](https://youtu.be/rMP6GHEykdM)
