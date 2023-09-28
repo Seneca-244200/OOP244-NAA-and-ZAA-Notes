@@ -9,3 +9,4 @@ I strongly suggest that students review other sections' recordings as well if ti
 - [04-Sep18, References, Pointers, Intro to DMA](https://youtu.be/i0PEciYSr6E)
 - [05-Sep21, Pointers VS integers, DMA](https://youtu.be/rMP6GHEykdM)
 - [06-Sep26,  Privacy, Constructors, Destructors](https://youtu.be/jazaRaOAmuc)
+- [07-Sep28, *this, Formatting output](https://youtu.be/0tF8PwYrUr0)
