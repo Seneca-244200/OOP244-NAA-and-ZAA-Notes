@@ -23,6 +23,7 @@ Since the feedbacks are given on each workshop you will not lose any marks on th
 |[DLIF](#dlif) | A pointer does not need to be checked for being null before deletion  |
 |[DMA](#dma) | Bad logic for dynamic memory allocation or resizing memory |
 |[DV](#dv) | Missing default value for the argument of a function |
+|[EXC](#exc) | Excessive Commenting |
 |[FN](#fn) |  Always pack repeated logic in your class into a private function |
 |[FR](#fr) |  For filler repetition and formatting use width and fill |
 |[FRD](#frd)| Friend helper functions used instead of creating queries and calling them in the helper functions|
@@ -70,6 +71,103 @@ Since the feedbacks are given on each workshop you will not lose any marks on th
 [Back to Feedback List](#list)
 ------------------------------------
 -->
+
+## EXC
+### Feedback
+An excessive amount of comments is added to the code, please remove the comments and notes that are added to help develop the code and leave only those which are necessary for reviewing clarification.<br />
+> Note that the fix is only making the code readable and it is not the correct one.
+
+### Problematic code sample
+```C++
+// Transfers the passengers of a Train to the current Train.
+// Returns a boolean and receives a constant Train reference as an argument.
+// This function's execution is considered to be successful if both the current 
+// Train and the Train referenced by the argument are in a valid state.
+// The transfer function will first change the name of the current Train to a 
+// combination of the names of the two trains. For example, if the name of the 
+// current Train is "TR one" and the name of the other Train is "TR two", the 
+// combination of the two names will be "TR one, TR two".
+// Then the Transfer will try to board all the passengers of the other Train 
+// (referenced by the argument) to the current train. If all the passengers 
+// are boarded successfully the function will quietly exit. If some of the 
+// passengers are left behind the following message will be printed.
+// 
+// Train is full; 25 passengers of "TR one, TR two" could not be boarded!
+// In the example above we are assuming that 25 passengers were not boarded 
+// and the combined name of the current train is 'TR one, TR two`.
+bool Train::transfer(const Train& from) {
+
+	// Execution is considered to be successful if both the current 
+	//    Train and the Train referenced by the argument are in a valid state
+	//cout << ">>>DEBUG: isInvalid(): " << isInvalid() << ", from.isInvalid(): " << from.isInvalid() << endl;
+	if (isInvalid() || from.isInvalid()) {
+		return false;
+	}
+
+	// Change the name of the train
+	// For example, if the name of the current Train is "TR one" and the 
+	// name of the other Train is "TR two", the combination of the two names
+	// will be "TR one, TR two".
+	char* newName;
+	// The new name size should be:
+	//    strlen(current train name) + 
+	//    2 spaces for ", "
+	//    strlen(other train name) 
+	//    1 space for the null terminator
+	newName = new char[ strlen(m_name) + 2 + strlen(from.getName()) + 1];
+	strcpy(newName, m_name); // copy current train name to the variable newName
+	strcat(newName, ", "); // concat comma and blank space
+	strcat(newName, from.getName()); // concat other train name
+	// Now the variable newName contains current train name + ", " + other train name
+	set(newName); // set new train name
+	// Dealocate memory from newName varible.
+	delete[] newName;
+	newName = nullptr;
+
+	// Board the passengers of the other Train to the current train
+	int notBoarded;
+	// Variable allBoarded
+	//	true: all the passengers are boarded successfully; 
+	//  false: some of the passengers are left behind
+	bool allBoarded;
+	allBoarded = load( from.noOfPassengers(), notBoarded);
+	if (!allBoarded) {
+		cout << "Train is full; " << notBoarded << " passengers of " << from.getName() << " could not be boarded!" << endl;
+	}
+
+	// Execution is considered to be successful if both the current 
+	//    Train and the Train referenced by the argument are in a valid state
+	return (!isInvalid() && !from.isInvalid());
+}
+```
+### The Fix
+```C++
+// Transfers the passengers of a Train to the current Train.
+bool Train::transfer(const Train& from) {
+   if(isInvalid() || from.isInvalid()) {
+      return false;
+   }
+   char* newName;
+   newName = new char[strlen(m_name) + 2 + strlen(from.getName()) + 1];
+   //combine the two names
+   strcpy(newName, m_name); 
+   strcat(newName, ", "); 
+   strcat(newName, from.getName()); 
+   set(newName); 
+   delete[] newName;
+   newName = nullptr;
+   int notBoarded;
+   bool allBoarded;
+   allBoarded = load(from.noOfPassengers(), notBoarded);
+   if(!allBoarded) {
+      cout << "Train is full; " << notBoarded << " passengers of " << from.getName() << " could not be boarded!" << endl;
+   }
+   return (!isInvalid() && !from.isInvalid());
+}
+```
+------------------------------------
+[Back to Feedback List](#list)
+------------------------------------
 ## RT
 ### Feedback
 Exiting the function in the middle of the function, a function must have one point of entry and one point of exit unless it is impossiple to do so (which is very rare)
