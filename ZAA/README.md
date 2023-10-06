@@ -10,3 +10,5 @@ I strongly suggest that students review other sections' recordings as well if ti
 - [05-Sep21, Pointers VS integers, DMA](https://youtu.be/rMP6GHEykdM)
 - [06-Sep26,  Privacy, Constructors, Destructors](https://youtu.be/jazaRaOAmuc)
 - [07-Sep28, *this, Formatting output](https://youtu.be/0tF8PwYrUr0)
+- [08-Oct02 - Foolproof data entry and Operators intro](https://youtu.be/IoXfNi5rn90)
+- [09-Oct05 - Operator Overloading](https://youtu.be/FXH2eRyDoMU)
