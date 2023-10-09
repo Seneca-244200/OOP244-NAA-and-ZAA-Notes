@@ -8,3 +8,7 @@ I strongly suggest that students review other sections' recordings as well if ti
 - [04-Sep15- References, pointers, intro to DMA](https://youtu.be/DEzuQi3Q3Yc)
 - [05-Sep20 - DMA, Privacy, Methods, Constructor and destructor](https://youtu.be/jn0N345lNpM)
 - [06-Sep22 - Constructor, Destructo, Safe Empty state, DMA](https://youtu.be/7P5PXtMaNQU)
+- [07- Sep27 Current object, ostream formatting and istream methods](https://youtu.be/lSY0t9Va_j8?si=voZF78a7kmaxmFGf)
+- 08- Sep 29th Class cancelled
+- [09-Oct04 - cin foolproofing and operator overload part 1](https://youtu.be/VlcH68UGvWs?si=Ett5uAZvotgBDh65)
+- [10- Oct06 - Operator overloading Completed](https://youtu.be/FzShHtLO990)
