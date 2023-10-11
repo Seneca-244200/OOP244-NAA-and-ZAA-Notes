@@ -31,6 +31,7 @@ Since the feedbacks are given on each workshop you will not lose any marks on th
 |[IH](#ih) |  Unneeded header file included in another header file| 
 |[IN](#in) |  Sloppy formatting, bad or inconsistent indentation in the code  |
 |[IOS](#ios)|  #include&lt;iotstream&gt; already includes &lt;ostream&gt; |
+|[IOSSTD](#iosstd) | used iostream and stdio for console at the same time |
 |[LS](#ls) | Late Submission |
 |[MR](#mr)  |  Unnecessary multiple return statements or exit function used|
 |[MP](#mp) | The whole module is written is only with one or two functions |
@@ -71,6 +72,34 @@ Since the feedbacks are given on each workshop you will not lose any marks on th
 [Back to Feedback List](#list)
 ------------------------------------
 -->
+## IOSSTD
+### Feedback
+You have used iostream; cin and cout and printf and scanf for console IO
+### Problematic code sample
+```C++
+    void LabelMaker::printLabels() const {
+        for (int i = 0; i < numOfLabels; ++i) {
+            labels[i].printLabel();
+            if (i < numOfLabels - 1)
+                std::cout << std::endl; 
+        }
+        printf("\n");
+    }
+```
+### The Fix
+```C++
+    void LabelMaker::printLabels() const {
+        for (int i = 0; i < numOfLabels; ++i) {
+            labels[i].printLabel();
+            if (i < numOfLabels - 1)
+                std::cout << std::endl; 
+        }
+        cout << std::endl;
+    }
+```
+------------------------------------
+[Back to Feedback List](#list)
+------------------------------------
 
 ## EXC
 ### Feedback
