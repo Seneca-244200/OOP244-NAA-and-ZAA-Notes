@@ -12,3 +12,4 @@ I strongly suggest that students review other sections' recordings as well if ti
 - 08- Sep 29th Class cancelled
 - [09-Oct04 - cin foolproofing and operator overload part 1](https://youtu.be/VlcH68UGvWs?si=Ett5uAZvotgBDh65)
 - [10- Oct06 - Operator overloading Completed](https://youtu.be/FzShHtLO990)
+- [11- Oct11 - Files and classes with resource](https://youtu.be/s8nDXGEcXkU)
