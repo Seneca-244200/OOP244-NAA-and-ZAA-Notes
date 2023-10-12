@@ -43,6 +43,9 @@ namespace sdds {
    Integer::operator int( ) const {
       return m_value;
    }
+   Integer::operator double( ) const {
+      return double( m_value );
+   }
    Integer::operator const char* () const { // this is garbage, make it right!!!
       char* num = new char[10];
       num[0] = 'I';

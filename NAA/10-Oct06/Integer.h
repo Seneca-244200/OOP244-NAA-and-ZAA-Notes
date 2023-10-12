@@ -24,6 +24,7 @@ namespace sdds {
       // casting overload
       // conversion operator overload
       operator int( )const;
+      operator double( )const;
       // return the roman numeral conversion dynamic string
       operator const char* ()const;
 
