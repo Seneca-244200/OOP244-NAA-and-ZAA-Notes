@@ -13,3 +13,7 @@ I strongly suggest that students review other sections' recordings as well if ti
 - [08-Oct02 - Foolproof data entry and Operators intro](https://youtu.be/IoXfNi5rn90)
 - [09-Oct05 - Operator Overloading](https://youtu.be/FXH2eRyDoMU)
 - [10-Async - Operator Overloading completed](https://youtu.be/FzShHtLO990)
+- [11-Oct12 - Files and classes with resource](https://youtu.be/EOuNnzhb2vk)
+- [12-Oct16 - Operator Overload](https://youtu.be/JJMA43kG0Gg)
+- [13-Oct30 - String review](https://youtu.be/V8dPBr1LHEg?si=_bHe6uOsBXn3Ey21)
+- [14-Nov06 - Inheritance, Virtuals](https://youtu.be/_iBwobJwrnk)

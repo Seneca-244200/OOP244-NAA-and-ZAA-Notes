@@ -13,3 +13,5 @@ I strongly suggest that students review other sections' recordings as well if ti
 - [09-Oct04 - cin foolproofing and operator overload part 1](https://youtu.be/VlcH68UGvWs?si=Ett5uAZvotgBDh65)
 - [10- Oct06 - Operator overloading Completed](https://youtu.be/FzShHtLO990)
 - [11- Oct11 - Files and classes with resource](https://youtu.be/s8nDXGEcXkU)
+- [12- Nov01 - DMA, Rule Of three](https://youtu.be/948JwzdCnC8)
+- [13- Nov03 - Review of first half of the semester](https://youtu.be/3aF6ZoyH1XY)
