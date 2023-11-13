@@ -17,3 +17,4 @@ I strongly suggest that students review other sections' recordings as well if ti
 - [12-Oct16 - Operator Overload](https://youtu.be/JJMA43kG0Gg)
 - [13-Oct30 - String review](https://youtu.be/V8dPBr1LHEg?si=_bHe6uOsBXn3Ey21)
 - [14-Nov06 - Inheritance, Virtuals](https://youtu.be/_iBwobJwrnk)
+- [15-Nov09 - Pure Virtuals, Interfaced](https://youtu.be/iKw9W140jI0)
