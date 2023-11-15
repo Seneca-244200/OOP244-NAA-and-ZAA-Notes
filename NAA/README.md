@@ -17,3 +17,4 @@ I strongly suggest that students review other sections' recordings as well if ti
 - [13- Nov03 - Review of first half of the semester](https://youtu.be/3aF6ZoyH1XY)
 - [14= Nov08 - Inheritance Virtuals, pure virtual](https://youtu.be/A3ur4D-jaLM)
 - [15- Nov10 - Pure virtuals and Interfaces](https://youtu.be/PKmBMEp23yA)
+- [16- Nov15 - Derived classes with resource](https://youtu.be/eb6npPp_Lcc)
