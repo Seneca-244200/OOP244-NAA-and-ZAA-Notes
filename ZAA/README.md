@@ -18,3 +18,6 @@ I strongly suggest that students review other sections' recordings as well if ti
 - [13-Oct30 - String review](https://youtu.be/V8dPBr1LHEg?si=_bHe6uOsBXn3Ey21)
 - [14-Nov06 - Inheritance, Virtuals](https://youtu.be/_iBwobJwrnk)
 - [15-Nov09 - Pure Virtuals, Interfaced](https://youtu.be/iKw9W140jI0)
+- [16-Nov13 - Derived classes with resource(rule of three)](https://youtu.be/0E3b4hLAYiY)
+- [17-Nov16 - Derived classes with resource review](https://youtu.be/2-sAJuraH8I)
+- [18-Nov20 - Templates](https://youtu.be/TxGSL3DMRqI)
