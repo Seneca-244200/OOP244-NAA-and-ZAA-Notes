@@ -19,4 +19,5 @@ I strongly suggest that students review other sections' recordings as well if ti
 - [15- Nov10 - Pure virtuals and Interfaces](https://youtu.be/PKmBMEp23yA)
 - [16- Nov15 - Derived classes with resource](https://youtu.be/eb6npPp_Lcc)
 - [18- Nov22 - Templates](https://youtu.be/Q-0xQnXgYT8)
-- [19- Nov24 - Contrained Casts, Overview of polymorphism](https://youtu.be/wuBOC_WQfpA)
+- [19- Nov24 - Constrained Casts, Overview of polymorphism](https://youtu.be/wuBOC_WQfpA)
+- [20- Dec01 - Final Assessment Overview](https://youtu.be/ZpDCn5uIbXg)
