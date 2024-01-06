@@ -1,25 +1,22 @@
 # OOP244 NAA and ZAA Notes
-
-
 ## Workshop Zero
-As a student in my class, you must familiarize yourself with GitHub so you can share your daily work with me for advice/help, collaboration and monitoring your progress. 
+As a student in my C++ course, you must familiarize yourself with GitHub so you can share your daily work with me for advice, help, collaboration, and monitoring of your progress.
 
-This is done using what I call Workshop Zero; through a series of videos instructing you on how to set up your computer to use GitHub effectively for collaboration.
+To get started, I have created a series of videos called Workshop Zero that will instruct you on how to set up your computer to use GitHub effectively for collaboration. The due date for Workshop Zero is Monday, January 15th.
+
+Please watch the videos and listen to the instructions carefully. As a computer science student, you must learn to be precise and exact in your work. Follow the instructions EXACTLY as instructed, especially the last step of the Workshop.
+
+Here are the Videos. Again, the due date for [Workshop Zero](https://youtube.com/playlist?list=PLxB4x6RkylouixUhNXf0MuwccLriA0DGC&si=cryJ9pUfUTK7jKcl) is Monday, January 15th; start your work now!!
+
+https://youtube.com/playlist?list=PLxB4x6RkylouixUhNXf0MuwccLriA0DGC&si=cryJ9pUfUTK7jKcl
  
-Complete this workshop by September 12th.
+## Mac Users
+If you are working on a Mac, you are required to learn and work with Visual Studio as an advanced IDE, especially in future semesters. To use Visual Studio on a Mac, you can either do all the git commands through the command line and use XCode (which you cannot use in future Windows-related subjects), or you can install a Virtual Machine and run Windows on your Mac. This will have Windows running in a window on your Mac without losing your Mac settings and features.
 
-Here are the Videos. The due date for [Workshop Zero](https://www.youtube.com/playlist?list=PLxB4x6RkylouixUhNXf0MuwccLriA0DGC) is Tuesday September 12th.
+Here are the steps to install Fusion Vmware and Windows 10 on Fusion VM:
 
-https://www.youtube.com/playlist?list=PLxB4x6RkylouixUhNXf0MuwccLriA0DGC
-
-> Note: As a computer science student you must learn to be precise and exact in your work. Please watch the videos and listen to the instructions carefully an follow the instructions EXACTLY as instructed. Specially the last step of the Workshop.
-
-### Mac Users
-Working on different platforms you are required to learn and work with visual studio as an advanced IDE specially in future semesters.<br />
-For Mac, either you have to do all the git commands through command line and use XCode (which you can not use in future windows related subjects), or you need to install a Virtual Machine and run windows on your Mac. This will have windows running in a window on your Mac without losing your Mac Settings and features:
-- [Install Fusion Vmware](https://www.vmware.com/ca/products/fusion/fusion-evaluation.html) Fusion is free for students; click on ["Register Lisence for Personal Use"](https://customerconnect.vmware.com/web/vmware/evalcenter?p=fusion-player-personal) 
+- [Install Fusion Vmware](https://www.vmware.com/ca/products/fusion/fusion-evaluation.html). Fusion is free for students; click on ["Register License for Personal Use"](https://customerconnect.vmware.com/web/vmware/evalcenter?p=fusion-player-personal) 
 - [Install Windows 10 on Fusion VM](https://www.groovypost.com/howto/create-custom-virtual-machine-vmware-fusion/)
-
 
 ## 144100 review session  for 244200 students
 The review session on IPC144/BTP100 was held last year<br />
