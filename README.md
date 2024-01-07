@@ -31,25 +31,33 @@ You can view the recordings below and review the code to make your base knowledg
 - [Code](144100Review/Code/)
 
 ### Lecture recordings
-See the section directries: <a href="NAA/README.md" target="_blank">NAA</a> - <a href="ZAA/README.md" target="_blank">ZAA</a>
+See the section directories: <a href="NAA/README.md" target="_blank">NAA</a> - <a href="ZAA/README.md" target="_blank">ZAA</a>
 
 # Office
-[![Fardad Office](images/244Office.png)](https://teams.microsoft.com/l/channel/19%3axzuRx-sg4MGoJta2FPdfTWU4E_3dcfXt7OYyfqS_WNw1%40thread.tacv2/General?groupId=46813587-465f-4874-a0f5-486b455c75e3&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
+[![Fardad Office](images/244Office.png)](https://teams.microsoft.com/l/channel/19%3a-kl-cZzTDzUR95D8IBlRvmkcjWRXCBP6coVv2d-w3lU1%40thread.tacv2/General?groupId=f238081f-e23a-4400-95eb-7469084fc3d7&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
 
-For Help and office times, click on my  [Office](https://teams.microsoft.com/l/channel/19%3axzuRx-sg4MGoJta2FPdfTWU4E_3dcfXt7OYyfqS_WNw1%40thread.tacv2/General?groupId=46813587-465f-4874-a0f5-486b455c75e3&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)  link to go to MS Teams, then click on the calendar icon and book a meeting using **Scheduling Assistant** to make sure it does not have a conflict with my other work activities.
+For Help and office times, click on my  [Office](https://teams.microsoft.com/l/channel/19%3a-kl-cZzTDzUR95D8IBlRvmkcjWRXCBP6coVv2d-w3lU1%40thread.tacv2/General?groupId=f238081f-e23a-4400-95eb-7469084fc3d7&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)  link to go to MS Teams, then click on the calendar icon and book a meeting using **Scheduling Assistant** to make sure it does not have a conflict with my other work activities.
 
 # Fardad's Schedule
 | Period | Start-Stop  | Mon | Tue | Wed | Thu | Fri |
 |--------|-------------|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
-| 1      | 8:00-8:50   |   OOP244ZAA <br /> Lecture: M300    |    |     |     |    |
-| 2      | 8:55-9:45   |   OOP244ZAA <br /> Lecture: M300     |    |     |    |     |
-| 3      | 9:50-10:40  |     |      |     |  OOP244ZAAL <br /> Lec/Lab: M512   |  OOP345NBBL <br /> Lec/Lab: A3518    |
-| 4      | 10:45-11:35 |     |   |     |  OOP244ZAAL <br /> Lec/Lab: M512  | OOP345NBBL <br /> Lec/Lab: A3518   |
-| 5      | 11:40-12:30 |OOP345NBB <br /> Lecture: BigBlueButton   |     | OOP244NAA <br /> Lecture: E1419  |     |  OOP244NAAL <br /> Lec/LAB: A3512  |
-| 6      | 12:35-13:25 |OOP345NBB <br /> Lecture: BigBlueButton   |      | OOP244NAA <br /> Lecture: E1419   |   |  OOP244NAAL <br /> Lec/LAB: A3512 |
-| 7      | 13:30-14:20 |    |     |      |     |    |
-| 8      | 14:25-15:15 |     |       |     |   |     |
-| 9      | 15:20-16:10 |     |      |     |      |       |
-| 10     | 16:15-17:05 |     |   |    |      |     |
-| 11     | 17:10-18:00 |       |     |     |      |      |
-| 12     | 18:05-18:55 |       |     |   |      |      |
+| 1      | 8:00-8:50   |    |  OOP244NAA <br /> Lecture: A3504  |    |    |  OOP244ZAA <br /> Lec/Lab: M664  |
+| 2      | 8:55-9:45   |    |  OOP244NAA <br /> Lecture: A3504  |    |    |  OOP244ZAA <br /> Lec/Lab: M664  |
+| 3      | 9:50-10:40  |    |  IPC144NBB <br /> Lecture: A4519  |  OOP244ZAA <br /> Lecture: M658  |  IPC144NBB <br /> Lec/Lab: B1081  |    |
+| 4      | 10:45-11:35 |    |  IPC144NBB <br /> Lecture: A4519  |  OOP244ZAA <br /> Lecture: M658  |  IPC144NBB <br /> Lec/Lab: B1081  |    |
+| 5      | 11:40-12:30 |    |    |    |  OOP244NAA <br /> Lec/LAB: A4516  |    |
+| 6      | 12:35-13:25 |    |    |    |  OOP244NAA <br /> Lec/LAB: A4516  |    |
+| 7      | 13:30-14:20 |    |    |    |    |    |
+| 8      | 14:25-15:15 |    |    |    |    |    |
+| 9      | 15:20-16:10 |    |    |    |    |    |
+| 10     | 16:15-17:05 |    |    |    |    |    |
+| 11     | 17:10-18:00 |    |    |    |    |    |
+| 12     | 18:05-18:55 |    |    |    |    |    |
+
+
+
+
+
+
+
+
