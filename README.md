@@ -36,7 +36,7 @@ See the section directories: <a href="NAA/README.md" target="_blank">NAA</a> - <
 # Office
 [![Fardad Office](images/244Office.png)](https://teams.microsoft.com/l/channel/19%3a-kl-cZzTDzUR95D8IBlRvmkcjWRXCBP6coVv2d-w3lU1%40thread.tacv2/General?groupId=f238081f-e23a-4400-95eb-7469084fc3d7&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
 
-For Help and office times, click on my  [Office](https://teams.microsoft.com/l/channel/19%3a-kl-cZzTDzUR95D8IBlRvmkcjWRXCBP6coVv2d-w3lU1%40thread.tacv2/General?groupId=f238081f-e23a-4400-95eb-7469084fc3d7&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)  link to go to MS Teams, then click on the calendar icon and book a meeting using **Scheduling Assistant** to make sure it does not have a conflict with my other work activities.
+For Help and office times, click on my  [Office](https://teams.microsoft.com/l/channel/19%3a-kl-cZzTDzUR95D8IBlRvmkcjWRXCBP6coVv2d-w3lU1%40thread.tacv2/General?groupId=f238081f-e23a-4400-95eb-7469084fc3d7&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)  link to go to MS Teams, then click on the calendar icon and book a meeting using [**Scheduling Assistant**](https://www.youtube.com/watch?v=RLDoP3eXAUU&ab_channel=FardadSoleimanloo) to make sure it does not have a conflict with my other work activities.
 
 # Fardad's Schedule
 | Period | Start-Stop  | Mon | Tue | Wed | Thu | Fri |
