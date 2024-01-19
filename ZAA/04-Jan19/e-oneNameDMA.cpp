@@ -31,7 +31,7 @@ void set( Name& n, const char* name, const char* surname ) {
 void deallocate( Name& n ) {
    delete[] n.m_name;
    delete[] n.m_surname;
-  // n.m_name = n.m_surname = nullptr;
+   n.m_name = n.m_surname = nullptr;
 }
 
 /// <summary>
@@ -74,29 +74,35 @@ void print( const Name& N ) {
 
 int main( ) {
    cout << "Welcome to OOP244ZAA 04-Jan 19th." << endl;
+   Name N;
+   print( N );
+   read( N );
+   print( N );
+   deallocate( N );
+   print( N );
 
 
-   Name* n = nullptr;
-   size_t noOfNames{};
-   cout << "Please enter then number of names:\n> ";
-   cin >> noOfNames;
-   n = new Name[noOfNames];
-   if ( n ) {
+/*   int* nums = nullptr;
+   size_t noOfInts{};
+   cout << "Please enter then number of integers:\n> ";
+   cin >> noOfInts;
+   nums = new int[noOfInts];
+   if ( nums ) {
       size_t i{};
-      for ( ; i < noOfNames; i++ ) {
+      for ( ; i < noOfInts; i++ ) {
          cout << (i + 1) << "> ";
-         read(n[i]);
+         cin >> nums[i];
       }
-      for ( i = 0; i < noOfNames; i++ ) {
-         cout << (i + 1) << ": ";
-         print( n[noOfNames - i - 1] );
+      for ( i = 0; i < noOfInts; i++ ) {
+         cout << (i + 1) << ": " << nums[noOfInts - i - 1];
       }
    }
    else {
       cout << "Memory allocation failed!" << endl;
    }
-   delete[] n;
-   n = nullptr;// not needed, just to force a habit!
+   delete[] nums;
+   nums = nullptr;// not needed, just to force a habit!
+   */
    return 0;
 }
 
