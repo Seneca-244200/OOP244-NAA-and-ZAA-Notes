@@ -6,3 +6,4 @@ I strongly suggest that students review other sections' recordings as well if ti
 - [02 - Jan 12 - Modules, workshop 1, intro to OOP](https://youtu.be/8pf-ar21xf4)
 - [03 - Jan 17 - type, pointers, intro to dynamic memory allocation](https://youtu.be/1r2jHtlNVDY)
 - [04 - Jan 19 - Dynamic Memory Allocation](https://youtu.be/Xn_sPCZfCqY)
+- [05 - Jan 24 - DMA review, Encapsulation, Privacy, No Argument Constructor and Destructor, this](https://youtu.be/4wml-RjxB4s)
