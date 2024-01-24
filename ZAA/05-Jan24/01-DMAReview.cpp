@@ -111,6 +111,9 @@ int main( ) {
    else {
       cout << "Memory allocation failed!" << endl;
    }
+   for ( size_t i = 0; i < noOfNames; i++ ) {
+      deallocate( n[i] );
+   }
    delete[] n;
    n = nullptr;// not needed, just to force a habit!
    return 0;
