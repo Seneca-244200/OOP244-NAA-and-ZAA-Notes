@@ -3,7 +3,6 @@
 namespace seneca {
    size_t counter{ };
    class Name {
-   private:
       char* m_name;
       char* m_surname;
       /// <summary>
@@ -20,22 +19,22 @@ namespace seneca {
       Name( ); // constructs the object right after it is born
       ~Name( ); // destructs the object right before it is gone
 
-      /// <summary>
+   /// <summary>
    /// sets the name and surname dynamically in the Name object
    /// </summary>
    /// <param name="name"> cstring fist name </param>
    /// <param name="surname"> cstring last name </param>
       void set( const char* name, const char* surname );
-      /// <summary>
+   /// <summary>
    /// set a name by getting them from console from user.
    /// </summary>
       void read( );
-      /// <summary>
+   /// <summary>
    /// returns true if the name is empty
    /// </summary>
    /// <returns> true if name is empty </returns>
       bool isEmpty( ) const;
-      /// <summary>
+   /// <summary>
    /// Print a name or prints "No Name" if empty
    /// </summary>
       void print( )const;
