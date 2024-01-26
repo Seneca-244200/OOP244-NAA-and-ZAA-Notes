@@ -6,4 +6,5 @@ I strongly suggest that students review other sections' recordings as well if ti
 - [02 Jan 11 - Intro to OOP](https://youtu.be/G7zuva3_-KQ?si=ZZ1-IYgkMWSHdTOq)
 - [03 Jan 16 - types, overloading, pointers review](https://youtu.be/7Cy97GrpEMM)
 - [04 Jan 18 - Dynamic Memory Allocation](https://youtu.be/FbnHOtVAgg0)
-- [05-Jan 25 - cin, cout formating and foolproof reading](https://youtu.be/TkpeJFPlE8w)
+- [05 Jan 23 - DMA review, member functions and privacy, constructor and destructor review](https://youtu.be/_3lFeVd26B0)
+- [05 Jan 25 - cin, cout formating and foolproof reading](https://youtu.be/TkpeJFPlE8w)
