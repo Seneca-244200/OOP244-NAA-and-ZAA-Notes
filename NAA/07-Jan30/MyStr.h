@@ -1,5 +1,7 @@
 #ifndef SENECA_MYSTR_H
 #define SENECA_MYSTR_H
+#include <iostream>
+// using namespace std; DO NOT DO THIS
 namespace seneca {
    class MyStr {
       char* m_data;
@@ -8,7 +10,8 @@ namespace seneca {
       MyStr( const char* cString );
       MyStr( );
       ~MyStr( );
-      void print( )const;
+      MyStr& set( const char* cString );
+      std::ostream& print( )const;
    };
 }
 #endif // !SENECA_MYSTR_H
