@@ -7,3 +7,4 @@ I strongly suggest that students review other sections' recordings as well if ti
 - [03 - Jan 17 - type, pointers, intro to dynamic memory allocation](https://youtu.be/1r2jHtlNVDY)
 - [04 - Jan 19 - Dynamic Memory Allocation](https://youtu.be/Xn_sPCZfCqY)
 - [05 - Jan 24 - DMA review, Encapsulation, Privacy, No Argument Constructor and Destructor, this](https://youtu.be/4wml-RjxB4s)
+- [06 - Jan 26 - iostream formatted output and foolproof input](https://youtu.be/xNcb2RLe1Qg)
