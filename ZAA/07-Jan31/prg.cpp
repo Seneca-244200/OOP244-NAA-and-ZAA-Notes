@@ -1,13 +1,9 @@
 #include <iostream>
-#include "Utils.h"
+#include "Str.h"
 using namespace std;
 using namespace seneca;
 int main( ) {
-   if ( ut.yes( "Are you ok?\n> " ) ) {
-      cout << "Good for you!" << endl;
-   }
-   else {
-      cout << "Sorry to hear that!" << endl;
-   }
+   Str name;
+   name.print( );
    return 0;
 }
