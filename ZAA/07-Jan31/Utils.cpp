@@ -4,6 +4,46 @@ using namespace std;
 namespace seneca {
    Utils ut;
    const double PI{ 3.14159265 };
+
+   char* Utils::strcat( char* des, const char* src ) {
+      size_t len = ut.strlen( des );
+      size_t i = 0;
+      while ( src[i] ) {
+         des[i + len] = src[i];
+         i++;
+      }
+      des[i + len] = char( 0 );
+      return des;
+   }
+
+
+   size_t Utils::strlen( const char* str ) {
+      size_t len{};
+      while ( str[len] ) {
+         len++;
+      }
+      return len;
+   }
+
+   char* Utils::strcpy( char* des, const char* src ) {
+      size_t i;
+      for ( i = 0; src[i]; i++ ) {
+         des[i] = src[i];
+      }
+      des[i] = 0;
+      return des;
+   }
+
+   char* Utils::strcpy( char* des, const char* src, size_t len ) {
+      size_t i;
+      for ( i = 0; src[i] && i < len; i++ ) {
+         des[i] = src[i];
+      }
+      des[i] = 0;
+      return des;
+   }
+
+
    double Utils::getDouble( ) {
       double val{};
       cin >> val;
@@ -43,6 +83,23 @@ namespace seneca {
          cin.get( newline );
       }
       return response == 'Y' || response == 'y';
+   }
+
+   void Utils::aloCopy( char*& des, const char* src ) {
+      des = nullptr;
+      if ( src ) {
+         des = new char[ut.strlen( src ) + 1];
+         ut.strcpy( des, src );
+      }
+   }
+
+   void Utils::aloCopy( char*& des, const char* src, size_t len ) {
+      des = nullptr;
+      if ( src ) {
+         size_t l = ut.strlen( src );
+         des = new char[(l>len?len:l) + 1];
+         ut.strcpy( des, src, len );
+      }
    }
 
 }

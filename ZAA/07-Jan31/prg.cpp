@@ -3,7 +3,14 @@
 using namespace std;
 using namespace seneca;
 int main( ) {
-   Str name;
-   name.print( );
+   Str S{ "This is a string!", 8 };
+   Str name = "Fred Soley";  // potato
+//   Str name("Fred Soley"); // potaato
+//   Str name{ "Fred Soley" }; // petoto
+   S.print( );
+   name.print( ) << endl;
+   name.set( "John Doe" ).print( ) << endl;
+   name.cat( " White" );
+
    return 0;
 }

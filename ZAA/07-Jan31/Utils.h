@@ -5,6 +5,17 @@ namespace seneca {
       double getDouble( );
       void getCstr( char* str, size_t len );
       bool yes( const char* prompt = nullptr);
+
+      //DMA
+      void aloCopy( char*& des, const char* src );
+      void aloCopy( char*& des, const char* src , size_t len);
+      // end DMA
+
+      size_t strlen( const char* str );
+      char* strcpy( char* des, const char* src );
+      char* strcpy( char* des, const char* src, size_t len );
+      char* strcat( char* des, const char* src );
+
    };
    // like a function prototype for instances of types
    extern Utils ut;
