@@ -9,3 +9,4 @@ I strongly suggest that students review other sections' recordings as well if ti
 - [05 Jan 23 - DMA review, member functions and privacy, constructor and destructor review](https://youtu.be/_3lFeVd26B0)
 - [06 Jan 25 - cin, cout formating and foolproof reading](https://youtu.be/TkpeJFPlE8w)
 - [07 Jan 30 - Constructors, destructors](https://youtu.be/SuTfI67RcK8)
+- [08 Feb 01 - Constructors, destructors, *this, DMA resizing](https://youtu.be/EaL3eJbWm1g)
