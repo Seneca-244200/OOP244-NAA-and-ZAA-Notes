@@ -9,3 +9,5 @@ I strongly suggest that students review other sections' recordings as well if ti
 - [05 - Jan 24 - DMA review, Encapsulation, Privacy, No Argument Constructor and Destructor, this](https://youtu.be/4wml-RjxB4s)
 - [06 - Jan 26 - iostream formatted output and foolproof input](https://youtu.be/xNcb2RLe1Qg)
 - [07 - Jan 31 - io continued, construction and destruction](https://youtu.be/qZEwq5r15k8)
+- [08 - Feb 02 - Constructor, destructor review DMA and intro to files](https://youtu.be/5F7rNWDqWfM)
+- [09 - Feb 09 - Operator overloading intro](https://youtu.be/SPNkb7UEcPk)
