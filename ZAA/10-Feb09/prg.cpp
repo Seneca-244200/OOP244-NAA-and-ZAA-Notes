@@ -15,7 +15,7 @@ int main( ) {
    ut.strcpy( cstring, greeting );
    cout << cstring << ", with length of " << size_t(greeting) << endl;
    // this will go to an endless loop, why?
-   for ( size_t i = greeting+5; i >= 0; i-- ) {
+   for ( size_t i = greeting+5; i != 0; i-- ) {
       cout << greeting[i];
    }
    cout << endl;
