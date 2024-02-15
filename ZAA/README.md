@@ -12,3 +12,4 @@ I strongly suggest that students review other sections' recordings as well if ti
 - [08 - Feb 02 - Constructor, destructor review DMA and intro to files](https://youtu.be/5F7rNWDqWfM)
 - [09 - Feb 06 - Operator overloading intro](https://youtu.be/SPNkb7UEcPk)
 - [10 - Feb 09 - Operator overloading, Rule of three](https://youtu.be/48zEzEtv4OM)
+- [Computer Based test demo](https://youtu.be/2d_dZOisN7g)
