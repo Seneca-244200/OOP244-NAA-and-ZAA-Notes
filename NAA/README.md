@@ -12,3 +12,4 @@ I strongly suggest that students review other sections' recordings as well if ti
 - [08 Feb 01 - Constructors, destructors, *this, DMA resizing](https://youtu.be/EaL3eJbWm1g)
 - [09 Feb 06 - Operator Overloading Intro](https://youtu.be/6V414XhnqgA)
 - [Computer Based test demo](https://youtu.be/2d_dZOisN7g)
+- [11 Feb 13 - Review (Creating a DMA string in C++)](https://youtu.be/nqE50n5agYc)
