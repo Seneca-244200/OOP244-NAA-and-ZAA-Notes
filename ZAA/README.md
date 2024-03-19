@@ -13,3 +13,6 @@ I strongly suggest that students review other sections' recordings as well if ti
 - [09 - Feb 06 - Operator overloading intro](https://youtu.be/SPNkb7UEcPk)
 - [10 - Feb 09 - Operator overloading, Rule of three](https://youtu.be/48zEzEtv4OM)
 - [Computer Based test demo](https://youtu.be/2d_dZOisN7g)
+- [11 - Feb 14 - Review and DMA String implementation](https://youtu.be/ElDAg4-K1YU)
+- [12 - Mar 13 - Inheritance, Virtuals and Pure Virtuals](https://youtu.be/uByMpBIFeBk)
+- [13 - Mar 15 - Pure Virtuals and interfaces](https://youtu.be/XAJW3zlbHwI)
