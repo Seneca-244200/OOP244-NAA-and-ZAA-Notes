@@ -15,5 +15,5 @@ I strongly suggest that students review other sections' recordings as well if ti
 - [11 Feb 13 - Review (Creating a DMA string in C++)](https://youtu.be/nqE50n5agYc)
 - [12 Mar 12 - Inheritance and Virtuals](https://youtu.be/qK614TW3_jM)
 - [13 Mar 14 - Inheritance, Virtuals, Pure Virtuals and Interfaces](https://youtu.be/-XxfLofAzOY)
-- [14 Mar 19 - Derived classes with resource](https://youtu.be/LLEbP0XZ8X0)
+- [14 Mar 19 - Derived classes with resource, templates intro](https://youtu.be/LLEbP0XZ8X0)
 - 
