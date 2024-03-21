@@ -16,3 +16,4 @@ I strongly suggest that students review other sections' recordings as well if ti
 - [11 - Feb 14 - Review and DMA String implementation](https://youtu.be/ElDAg4-K1YU)
 - [12 - Mar 13 - Inheritance, Virtuals and Pure Virtuals](https://youtu.be/uByMpBIFeBk)
 - [13 - Mar 15 - Pure Virtuals and interfaces](https://youtu.be/XAJW3zlbHwI)
+- [14 - Mar 20 - Derived classes with resource](https://youtu.be/dU1IJSFqdR0)
