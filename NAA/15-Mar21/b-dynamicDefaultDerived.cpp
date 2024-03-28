@@ -24,6 +24,9 @@ public:
       m_b = b;
       return *this;
    }
+   int getM_b( )const {
+      return m_b;
+   }
    virtual ~Base( ) {
       cout << "Base Dest(" << m_b << ")";
    }
@@ -43,11 +46,12 @@ public:
    Derived( int d ) :m_d( d ) {
       cout << "+Der Contsr(" << d << ")";
    }
-   Derived( const Derived& Dr ) {
+   Derived( const Derived& Dr ):Base(Dr.getM_b()){
       cout << "+Der Copy(" << (m_d = Dr.m_d) << ")";
    }
    Derived& operator=( const Derived& Dr ) {
       cout << "Der Assing(" << m_d << " to " << Dr.m_d << ")";
+      Base::operator=( Dr );    
       if ( this != &Dr ) {
          m_d = Dr.m_d;
       }
